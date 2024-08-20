@@ -1,7 +1,11 @@
 # QuickPrep - Online Learning Platform
 
 Welcome to the QuickPrep repository! This project is an online learning platform designed to provide a full-featured educational experience. Below you'll find information about the project, its features, and how to get started.
-
+## Live Demo
+<a href="https://paid-intern-web-dev.vercel.app/">
+  <button>QuickPrep</button>
+</a>
+**Its a suggestion to open this website on "Google Crome" for better visualization.
 ## Project Overview
 
 QuickPrep is a responsive website developed as part of a web development internship project. The platform is designed to facilitate online learning with a user-friendly interface and robust backend support.
