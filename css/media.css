@@ -1,0 +1,1293 @@
+
+@media (max-width: 320px) {
+  .main_home {
+    height: auto;
+    padding: 2rem;
+  }
+
+  .main_heading {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .hero-div {
+    flex-direction: column;
+    margin: 1rem;
+  }
+
+  .text {
+    width: 100%;
+  }
+
+  .grid__container {
+    min-width: 100%;
+    height: auto;
+  }
+
+  .slider {
+    width: 100%;
+    margin: 2rem 0;
+  }
+
+  nav .navbar .links {
+    margin-left: 0;
+    gap: 1rem;
+  }
+.animator-section{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+}
+  .animator-section-container {
+    /* max-width: 1200px; */
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+}
+@media (min-width: 320px) and (max-width: 479px) {
+/* Styles for medium mobile devices */
+   /* Styles for small tablets */
+   .counting{
+    position: relative;
+    height: 10rem;
+    margin-bottom: 28rem;
+    margin-top: 20rem;
+  }
+  .footer-call-to-action-button{
+    padding: 9px 19px;
+    margin-left: -32px;
+  
+  }
+  .footer-call-to-action-description{
+  
+    margin-left: -22px;
+  
+  }
+  .footer-call-to-action-link{
+  
+    margin-left: -22px;
+  
+  }
+  .footer-call-to-action-title{
+    margin-left: -22px;
+  }
+  .footer-content-column{
+    margin-top: 2rem;
+  }
+    .grid__container {
+   display:none;
+    }
+    .main_heading p{
+      margin: 1rem -41rem 0rem 3rem;
+      width: 80%;
+  
+    }
+    .main_heading h1{
+    margin:  -41rem 0rem 0rem 2rem;
+      /* padding: 0rem 48rem 0rem 29rem; */
+      font-size: 2rem;
+    }
+    .hero h1{
+      margin:  7rem 5rem -67rem 10rem;
+    }
+    .main_home {
+      margin-top: -2rem;
+      height: 30rem;
+    }
+  
+    .main_heading {
+      margin-left: 0;
+          margin-top: 7rem;
+      text-align: center;
+    }
+    .view{
+      margin-left: 5rem;
+    }
+  
+    .hero-div {
+      margin: 3rem;
+    
+    }
+    .counter {
+      width: 70vw;
+    gap:1rem;}
+    .text {
+      width: 40%;
+    }
+    .course_card:hover p {
+      margin-top: 40%;}
+  .course_card  h1{
+    font-size: 1.2rem;
+  }
+  
+    
+    .main_heading button{
+      margin: 1rem 0rem -22rem 12em;
+    }
+  
+    .slider {
+      width: 90%;
+      /* margin: -14rem auto; */
+      margin: -46rem -98rem 2rem 77rem;
+    }
+  
+    nav .navbar .links {
+      margin-right: 14rem;
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+  
+    .navbar .logo {
+     margin: -3rem 94rem 0rem -17rem;
+    }
+  
+      .bx-menu {
+        margin: 1rem 0rem 0rem 32rem;
+        margin-left: 4rem;
+      }
+  
+    .faculty{
+      margin-left:-43rem;
+    }
+  
+    .ag-courses_box{
+      margin:10rem 16rem 0rem 3rem;
+      margin-top: 4rem;
+  
+    } 
+  .ag-courses-item_title{
+    min-height: 72px;
+    line-height: 2;
+    font-size: 17px;
+  }
+    .ag-format-container {
+      width: 39rem;
+
+    }
+    
+    .hero{
+      height: 214vh;
+      width: 100%;
+      margin-left: 0rem;
+    }
+    .info_container h1{
+   display: none;
+     
+  
+    }
+    .info_container p{
+      font-size: 1.2rem;
+      text-align: justify;
+      margin: 4rem -1rem 0rem -1rem;
+    }
+    .carousel-inner{
+      position: relative;
+      width: 24%;
+      margin: -1rem 43rem 0rem 23rem;
+    }
+    .profile-bg{
+      width: calc(100% - 446px);
+      height:calc(100% - -44px);
+      margin:-35rem 16rem -6rem -45rem;
+    }
+    .profile-info p{
+      margin: 2rem 5rem -6rem -2rem;
+      text-align: justify;
+    }
+    #red h2 
+  
+    {
+      margin-left: -19rem;
+      font-size: 1.5rem;
+    }
+    .red ul {
+      margin-right: -37rem;
+    }
+    .red-img img {
+      width: 11rem;
+      height: 13rem;
+      margin: 2rem 22rem 0rem 53rem;
+  
+  }
+  .process ol {
+    margin-left:2rem;
+  }
+  .process h1{
+    margin:-1rem 0rem 0rem 0rem;
+  }
+  #glance-h2{
+    font-size: 1.5rem;
+    margin: -24rem -22rem 1rem 4rem;
+  }
+  h2.card_title {
+    font-size: 1.2rem;}
+    .card {
+      width: 93%;
+      height: 84rem;}
+  
+      .blue p {
+        font-size: 1rem;
+        margin: -2rem 4rem 0rem -11rem;
+        line-height: 1.5rem;
+      }
+      .green #green-p {
+       
+        font-size: 1rem;
+        color: white;
+        margin:-2rem 3rem 0rem 19rem;
+        line-height: 1.5rem;
+      }
+  .green h2{
+    font-size: 1rem;
+  margin:-1rem -17rem 0rem 2rem;
+  }
+        
+          
+  .red ul li {
+    font-size: 1rem;
+  }
+  
+  .blue h2 {
+    font-size: 1rem;
+    color: rgb(0, 153, 255);
+    margin-left: 3rem;
+    /* text-align: center; */
+    margin: -1rem 15rem 0rem 2rem;
+  }
+  
+  
+  .card_text .note {
+  font-size: 1.3rem;
+  }
+  
+  #card-text-p {
+    font-size: 1.3rem;
+  }
+  #card-text-h2 {
+    font-size: 1.5rem;
+  }
+  #card-text-h6 {
+    font-size: 1.3rem;
+  }
+  .testimonial{
+    margin-bottom: -8rem;
+     
+      font-size: 1rem;
+  }
+  
+  .grid{
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, minmax(auto, 300px));
+    overflow-y: scroll;
+  }
+  
+    .animator-section-container {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    .core{
+      display: grid;
+      grid-template-columns: 1fr ;
+      margin-left: 2rem;
+      margin-top: -8rem;
+    }
+    .coreh1{
+      margin:-6rem 0rem 10rem 6rem;
+    }
+    .corecard{
+      width:310px;
+    }
+    .blog-card{
+      height: 32rem;
+    }
+  
+  }
+
+/* Medium mobile devices (landscape and portrait) */
+@media (min-width: 480px) and (max-width: 639px) {
+  /* Styles for medium mobile devices */
+   /* Styles for small tablets */
+   .counting{
+    position: relative;
+    height: 10rem;
+    margin-bottom: 28rem;
+    margin-top: 27rem;
+  }
+  .footer-call-to-action-button{
+    padding: 9px 19px;
+    margin-left:-2rem;
+  
+  }
+  .footer-call-to-action-description{
+  
+    margin-left:-1rem;
+  
+  }
+  .footer-call-to-action-link{
+  
+    margin-left:-1rem;
+  
+  }
+  .footer-call-to-action-title{
+    margin-left:-1rem;
+  }
+  .footer-content-column{
+    margin-top: 2rem;
+  }
+    .grid__container {
+   display:none;
+    }
+    .main_heading p{
+      margin: 1rem -41rem 0rem 4rem;
+      width: 80%;
+  
+    }
+    .main_heading h1{
+    margin:  -42rem 0rem 0rem 3rem;
+      /* padding: 0rem 48rem 0rem 29rem; */
+      font-size: 2rem;
+    }
+    .hero h1{
+      margin:  7rem 5rem -67rem 16rem;
+    }
+    .main_home {
+      margin-top: -2rem;
+      height: 25rem;
+    }
+  
+    .main_heading {
+      margin-left: 0;
+          margin-top: 7rem;
+      text-align: center;
+    }
+  
+    .hero-div {
+      margin: 3rem;
+    
+    }
+    .counter {
+      width: 70vw;
+    gap:1rem;}
+    .text {
+      width: 40%;
+    }
+    .course_card:hover p {
+      margin-top: 40%;}
+  .course_card  h1{
+    font-size: 1.2rem;
+  }
+  
+    
+    .main_heading button{
+      margin: 1rem 0rem -22rem 12em;
+    }
+  
+    .slider {
+      width: 90%;
+      /* margin: -14rem auto; */
+      margin: -46rem -98rem 2rem 77rem;
+    }
+  
+    nav .navbar .links {
+      margin-right: 14rem;
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+  
+    .navbar .logo {
+     margin: -3rem 94rem 0rem -17rem;
+    }
+  
+      .bx-menu {
+        margin: 1rem 0rem 0rem 32rem;
+        margin-left: 12rem;
+      }
+  
+    .faculty{
+      margin-left:-43rem;
+    }
+  
+    .ag-courses_box{
+      margin:10rem 16rem 0rem 3rem;
+      margin-top: 4rem;
+  
+    } 
+  .ag-courses-item_title{
+    min-height: 72px;
+    line-height: 2;
+    font-size: 27px;
+  }
+    .ag-format-container {
+      width: 51rem;
+
+    }
+    
+    .hero{
+      height: 230vh;
+      width: 100%;
+      margin-left: 0rem;
+    }
+    .info_container h1{
+      margin: 2rem 0rem -3rem -5rem;
+      font-size: 1.2rem;
+  
+    }
+    .info_container p{
+      font-size: 1.2rem;
+      text-align: justify;
+      margin: 4rem -3rem 0rem -4rem;
+    }
+    .carousel-inner{
+      position: relative;
+      width: 24%;
+      margin: -1rem 43rem 0rem 23rem;
+    }
+    .profile-bg{
+      width: calc(100% - 446px);
+      height:calc(100% - -44px);
+      margin:-35rem 16rem -6rem -45rem;
+    }
+    .profile-info p{
+      margin: 2rem 5rem -6rem -2rem;
+      text-align: justify;
+    }
+    #red h2 
+  
+    {
+      margin-left: 9rem;
+      font-size: 1.9rem;
+    }
+    .red ul {
+      margin-left:-45rem;
+    }
+    .red-img img {
+      width: 11rem;
+      height: 13rem;
+      margin: 2rem 22rem 0rem 53rem;
+  
+  }
+  .process ol {
+    margin-left: 3rem;
+    gap: 0rem;
+  }
+  .process h1{
+   margin: -2rem 0rem 0rem 0rem;
+  }
+  #glance-h2{
+    font-size: 1.5rem;
+    margin: -26rem -22rem 0rem 9rem;
+  }
+  h2.card_title {
+    font-size: 1.2rem;}
+    .card {
+      width: 93%;
+      height: 84rem;}
+  
+      .blue p {
+        font-size: 1rem;
+        margin: -2rem 4rem 0rem -11rem;
+        line-height: 2rem;
+      }
+  
+ 
+      .green #green-p {
+       
+        font-size: 1rem;
+        color: white;
+        margin:-2rem 3rem 0rem 19rem;
+        line-height: 2rem;
+      }
+  .green h2{
+  margin:-1rem -17rem 0rem 2rem;
+  }
+          
+  .red ul li {
+    font-size: 1rem;
+  }
+  
+  .blue h2 {
+    font-size: 1.7rem;
+    color: rgb(0, 153, 255);
+    margin-left: 3rem;
+    /* text-align: center; */
+    margin: -1rem 15rem 0rem 2rem;
+  }
+  
+  
+  .card_text .note {
+  font-size: 1.3rem;
+  }
+  
+  #card-text-p {
+    font-size: 1.3rem;
+  }
+  #card-text-h2 {
+    font-size: 1.5rem;
+  }
+  #card-text-h6 {
+    font-size: 1.3rem;
+  }
+  .testimonial{
+    margin-bottom: -8rem;
+     
+      font-size: 1rem;
+  }
+  
+  .grid{
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, minmax(auto, 300px));
+    overflow-y: scroll;
+  }
+  
+    .animator-section-container {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    .core{
+      display: grid;
+      grid-template-columns: 1fr ;
+      margin-left: 2rem;
+      margin-top: -8rem;
+    }
+    .coreh1{
+      margin:-8rem 0rem 10rem 9rem;
+    }
+    .corecard{
+      width:410px;
+    }
+    .blog-card{
+      height: 25rem;
+    }
+  }
+/* Large mobile devices (landscape and portrait) */
+@media (min-width: 640px) and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 2)  {
+  /* Styles for large mobile devices */
+    /* Styles for small tablets */
+.counting{
+  position: relative;
+  height: 10rem;
+  margin-bottom: 13rem;
+  margin-top: 13rem;
+}
+.footer-call-to-action-button{
+  padding: 9px 19px;
+  margin-left:-2rem;
+
+}
+.footer-call-to-action-description{
+
+  margin-left:-1rem;
+
+}
+.footer-call-to-action-link{
+
+  margin-left:-1rem;
+
+}
+.footer-call-to-action-title{
+  margin-left:-1rem;
+}
+.footer-content-column{
+  margin-top: 2rem;
+}
+  .grid__container {
+ display:none;
+  }
+  .main_heading p{
+    margin: 1rem -41rem 0rem 6rem;
+    width: 80%;
+
+  }
+  .main_heading h1{
+  margin:  -44rem -48rem 0rem -27rem;
+    padding: 0rem 48rem 0rem 29rem;
+    font-size: 2rem;
+  }
+  .hero h1{
+    margin: 10rem 5rem -67rem 18rem;
+  }
+  .main_home {
+    margin-top: -2rem;
+    height: 25rem;
+  }
+
+  .main_heading {
+    margin-left: 0;
+        margin-top: 7rem;
+    text-align: center;
+  }
+
+  .hero-div {
+    margin: 3rem;
+  
+  }
+  .counter {
+    width: 94vw;
+  gap:1rem;}
+  .text {
+    width: 40%;
+  }
+  .course_card:hover p {
+    margin-top: 40%;}
+.course_card  h1{
+  font-size: 1.2rem;
+}
+
+  
+  .main_heading button{
+    margin: 1rem 0rem -22rem 12em;
+  }
+
+  .slider {
+    width: 90%;
+    /* margin: -14rem auto; */
+    margin: -46rem -98rem 2rem 77rem;
+  }
+
+  nav .navbar .links {
+    margin-right: 14rem;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .navbar .logo {
+   margin: -3rem 94rem 0rem -17rem;
+  }
+
+    .bx-menu {
+      margin: 1rem 0rem 0rem 32rem;
+      margin-left: 24rem;
+    }
+
+  .faculty{
+    margin-left:-43rem;
+  }
+
+  .ag-courses_box{
+    margin:10rem 16rem 0rem 3rem;
+    margin-top: 4rem;
+
+  } 
+
+  .ag-format-container {
+    width: 831px;
+  }
+  
+  .hero{
+    height: 175vh;
+    width: 100%;
+    margin-left: 0rem;
+  }
+  .info_container h1{
+    margin: 2rem 0rem -3rem -5rem;
+    font-size: 1.4rem;
+
+  }
+  .info_container p{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin: 4rem -4rem -2rem -5rem;
+  }
+  .carousel-inner{
+    position: relative;
+    width: 24%;
+    margin: -1rem 43rem 0rem 23rem;
+  }
+  .profile-bg{
+    width: calc(100% - 446px);
+    height:calc(100% - -44px);
+    margin:-35rem 16rem -6rem -45rem;
+  }
+  .profile-info p{
+    margin: 2rem 5rem -6rem -2rem;
+    text-align: justify;
+  }
+  #red h2 
+
+  {
+    margin-left: 9rem;
+    font-size: 1.9rem;
+    margin-right: -27rem;
+  }
+  .red ul {
+    margin-left:-45rem;
+  }
+  .red-img img {
+    width: 11rem;
+    height: 13rem;
+    margin: 2rem 22rem 0rem 53rem;
+
+}
+.process ol {
+  margin-left: 3rem;
+  gap: 0rem;
+}
+.process h1{
+ margin: -2rem 0rem 0rem 0rem;
+}
+#glance-h2{
+  font-size: 1.5rem;
+  margin: -30rem -22rem 0rem 13rem;
+}
+h2.card_title {
+  font-size: 1.2rem;}
+  .card {
+    width: 85%;
+    height: 72rem;
+  }
+
+    .blue p {
+      font-size: 1rem;
+      margin: -2rem 4rem 0rem -11rem;
+      line-height: 2rem;
+    }
+
+    .green #green-p {
+       
+      font-size: 1rem;
+      color: white;
+      margin:-2rem 3rem 0rem 19rem;
+      line-height: 2rem;
+    }
+.green h2{
+margin:-1rem -17rem 0rem 2rem;
+}
+      
+.red ul li {
+  font-size: 1rem;
+}
+
+.blue h2 {
+  font-size: 1.7rem;
+  color: rgb(0, 153, 255);
+  margin-left: 3rem;
+  /* text-align: center; */
+  margin: -1rem 15rem 0rem 2rem;
+}
+
+
+.card_text .note {
+font-size: 1.3rem;
+}
+
+#card-text-p {
+  font-size: 1.3rem;
+}
+#card-text-h2 {
+  font-size: 1.5rem;
+}
+#card-text-h6 {
+  font-size: 1.3rem;
+}
+.testimonial{
+  margin-bottom: -8rem;
+   
+    font-size: 1rem;
+}
+
+.grid{
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(6, minmax(auto, 300px));
+  overflow-y: scroll;
+}
+
+  .animator-section-container {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .core{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    margin-left: 2rem;
+    margin-top: -8rem;
+  }
+  .coreh1{
+    margin:-8rem 0rem 10rem 14rem;
+  }
+  .corecard{
+    width:285px;
+  }
+  .blog-card{
+    height: 23rem;
+  }
+
+}
+/* Small tablets (landscape and portrait) */
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Styles for small tablets */
+  .blog-card{
+    height: 19rem;
+  }
+.counting{
+  position: relative;
+  height: 10rem;
+  margin-bottom: 13rem;
+  margin-top: 13rem;
+}
+.footer-call-to-action-button{
+  padding: 9px 19px;
+}
+
+  .grid__container {
+    min-width: 46%;
+    margin: -8rem 49rem 6rem -2rem;
+    height: auto;
+  }
+  .main_heading p{
+    margin: 1rem -24rem 0rem 31rem;
+    width: 36%;
+
+  }
+  .main_heading h1{
+    margin: -42rem -48rem 0rem -5rem;
+    padding: 0rem 48rem 0rem 29rem;
+    font-size: 2rem;
+  }
+  .hero h1{
+    margin: 10rem 5rem -67rem 23rem;
+  }
+  .main_home {
+    margin-top: -2rem;
+    height: 34rem;
+  }
+
+  .main_heading {
+    margin-left: 0;
+        margin-top: 7rem;
+    text-align: center;
+  }
+
+  .hero-div {
+    margin: 4rem;
+  }
+  .counter {
+    width: 94vw;
+  gap:1rem;}
+  .text {
+    width: 40%;
+  }
+  .course_card:hover p {
+    margin-top: 40%;}
+.course_card  h1{
+  font-size: 1.2rem;
+}
+
+  
+  .main_heading button{
+    margin: 1rem 0rem -22rem 12em;
+  }
+
+  .slider {
+    width: 90%;
+    /* margin: -14rem auto; */
+    margin: -46rem -98rem 2rem 77rem;
+  }
+
+  nav .navbar .links {
+    margin-right: 14rem;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .navbar .logo {
+   margin: -3rem 94rem 0rem -17rem;
+  }
+
+    .bx-menu {
+      margin: 1rem 0rem 0rem 32rem;
+    }
+
+  .faculty{
+    margin-left:-43rem;
+  }
+
+  .ag-courses_box{
+    margin:10rem 16rem 0rem 3rem;
+    margin-top: 4rem;
+
+  } 
+
+  .ag-format-container {
+    width: 831px;
+  }
+  
+  .hero{
+    height: 175vh;
+    width: 100%;
+    margin-left: 0rem;
+  }
+  .info_container h1{
+    margin: 2rem 0rem -3rem -2rem;
+    font-size: 1.4rem;
+
+  }
+  .info_container p{
+    font-size: 1.2rem;
+    text-align: justify;
+    margin: 4rem -4rem -2rem -6rem;
+  }
+  .carousel-inner{
+    position: relative;
+    width: 24%;
+    margin: -1rem 43rem 0rem 23rem;
+  }
+  .profile-bg{
+    width: calc(100% - 446px);
+    height:calc(100% - -44px);
+    margin:-35rem 16rem -6rem -45rem;
+  }
+  .profile-info p{
+    margin: 2rem 5rem -6rem -2rem;
+    text-align: justify;
+  }
+  #red h2 
+
+      {
+        margin-left:-35rem;
+        font-size: 2rem;
+      }
+      .red ul {
+        margin-left: -81rem;
+        margin-right: -27rem;
+      }
+      .red-img img {
+        width: 11rem;
+        height: 13rem;
+        margin:1rem 67rem 0rem 0rem;
+    
+    }
+.process ol {
+  margin-left: 3rem;
+  gap: 1rem;
+}
+.process h1{
+ margin: -2rem 0rem 0rem 0rem;
+}
+#glance-h2{
+  font-size: 1.5rem;
+  margin: -30rem -22rem 0rem 20rem;
+}
+h2.card_title {
+  font-size: 1.2rem;}
+  .card {
+    width: 93%;
+    height: 60rem;
+  }
+
+    .blue p {
+      font-size: 1rem;
+      margin: -2rem 4rem 0rem -11rem;
+      line-height: 2rem;
+    }
+
+      .green #green-p {
+       
+        font-size: 1rem;
+        color: white;
+        margin:-2rem 3rem 0rem 19rem;
+        line-height: 2rem;
+      }
+.green h2{
+  margin:-1rem -17rem 0rem 2rem;
+}
+        
+.red ul li {
+  font-size: 1rem;
+}
+
+.blue h2 {
+  font-size: 1.7rem;
+  color: rgb(0, 153, 255);
+  margin-left: 3rem;
+  /* text-align: center; */
+  margin: -1rem 15rem 0rem 2rem;
+}
+
+
+.card_text .note {
+font-size: 1.3rem;
+}
+
+#card-text-p {
+  font-size: 1.3rem;
+}
+#card-text-h2 {
+  font-size: 1.5rem;
+}
+#card-text-h6 {
+  font-size: 1.3rem;
+}
+.testimonial{
+  margin-bottom: -8rem;
+   
+    font-size: 1rem;
+}
+
+.grid{
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(6, minmax(auto, 300px));
+  overflow-y: scroll;
+}
+
+  .animator-section-container {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .core{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    margin-left: 4rem;
+    margin-top: -8rem;
+  }
+  .coreh1{
+    margin:-11rem 0rem 12rem 19rem;
+  }
+  .corecard{
+    width:330px;
+  }
+}
+
+
+/* Large tablets (landscape and portrait) */
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* Styles for large tablets */
+  .grid__container {
+    min-width: 42%;
+    margin: -8rem 37rem 6rem -35rem;
+    height: auto;
+  }
+  .main_heading p{
+    margin: 1rem -24rem 0rem 31rem;
+    width: 48%;
+
+  }
+  .main_heading h1{
+    margin: -46rem -50rem 0rem -5rem;
+    padding: 0rem 48rem 0rem 29rem;
+  }
+  .hero h1{
+    margin: 17rem 5rem -67rem 31rem;
+  }
+  .view{
+   margin: 1rem 0rem 0rem 30rem;
+  }
+  .main_home {
+    height: auto;
+    padding: 4rem;
+  }
+
+  .main_heading {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .hero{
+    height: 112vh;
+  }
+  .hero-div {
+    margin: 4rem;
+  }
+  .counter {
+    width: 94vw;}
+  .text {
+    width: 40%;
+  }
+  .course_card:hover p {
+    margin-top: 40%;}
+
+
+  .main_heading button{
+    margin: 1rem 0rem -22rem 24em;
+  }
+
+  .slider {
+    width: 90%;
+    /* margin: -14rem auto; */
+    margin: -46rem -98rem 2rem 77rem;
+  }
+
+  nav .navbar .links {
+    margin-right: 12rem;
+  }
+  .faculty{
+    margin-left:-20rem;
+  }
+  .ag-courses_box{
+    margin:10rem 0rem 0rem 0rem;
+
+  } 
+  .ag-courses-item_title {
+    font-size: 25px;
+  }
+  .ag-format-container {
+    width: 946px;}
+
+  .info_container h1{
+    margin: 0rem 0rem -1rem -4rem;
+    font-size: 2rem;
+  }
+  .info_container p{
+    font-size: 1.5rem;
+    text-align: justify;
+    margin: 2rem -5rem 1rem -8rem;
+  }
+  #glance-h2{
+    margin:-37rem 0rem 0rem 18rem;
+  }
+  .card {
+    width: 93%;
+    height: 53rem;}
+    h2.card_title {
+      font-size: 1.8rem;}
+      #red h2 
+
+      {
+        margin-left:-43rem;
+      }
+      .red ul {
+        margin-left: -69rem;
+        margin-right: -27rem;
+      }
+      .red-img img {
+        width: 11rem;
+        height: 13rem;
+        margin: 1rem 46rem 0rem 2rem;
+    
+    }
+    .process ol {
+      margin-left: 4rem;
+    }
+    .red ul li {
+      font-size: 1.3rem;
+    }
+    .green #green-p {
+      font-size: 1.2rem;
+    }
+    .testimonial-container{
+     margin: -6rem 0rem 10rem 2rem;
+    }
+    .grid{
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(6, minmax(auto, 300px));
+      overflow-y: scroll;
+    }
+    .core{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      margin-left: 0rem;
+      margin-top: -8rem;
+    }
+    .coreh1{
+      margin:-15rem 0rem 12rem 29rem;
+    }
+    .corecard{
+      width:330px;
+    }
+}
+
+/* Small laptops and desktops */
+@media (min-width: 1200px) and (max-width: 1439px) and (-webkit-min-device-pixel-ratio: 2)  {
+  /* Styles for small laptops and desktops */
+  .main_home {
+    height: auto;
+    padding: 4rem;
+  }
+  #glance-h2{
+   margin: -44rem 0rem 0rem 29rem;
+  }
+
+
+  .main_heading {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .hero-div {
+    margin: 4rem;
+  }
+
+  .text {
+    width: 40%;
+  }
+
+  .grid__container {
+    min-width: 42%;
+    margin: -8rem 47rem 6rem -35rem;
+    height: auto;
+  }
+  .main_heading p{
+    margin: 1rem -24rem 0rem 38rem;
+    width: 48%;
+
+  }
+  .main_heading h1{
+    margin: -46rem -50rem 0rem 1rem;
+    padding: 0rem 48rem 0rem 29rem;
+  }
+  .hero h1{
+    margin: 14rem 5rem -67rem 39rem;
+  }
+  .main_heading button{
+    margin: 1rem 0rem -22rem 9rem;
+  }
+
+  .slider {
+    width: 90%;
+    /* margin: -14rem auto; */
+    margin: -46rem -98rem 2rem 77rem;
+  }
+
+  nav .navbar .links {
+    margin-right: 14rem;
+    gap: .5rem;
+  }
+  .faculty{
+    margin-left:-11rem;
+  }
+  .ag-courses_box{
+    margin:10rem 0rem 0rem 0rem;
+
+  } 
+
+  #red h2 
+
+  {
+    margin-left:-47rem;
+  }
+  .red ul {
+    margin-left:-59rem;
+  }
+  .red-img img {
+    width: 11rem;
+    height: 13rem;
+    margin: 2rem 22rem 0rem 13rem;
+
+}
+.process ol {
+  margin-left:5rem;
+}
+.testimonial-container{
+ margin: -8rem 0rem 10rem 9rem
+}
+.grid{
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(6, minmax(auto, 300px));
+  overflow-y: scroll;
+}
+.core{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 0rem;
+}
+.coreh1{
+  margin: -22rem 0rem 22rem 34rem;
+}
+
+
+}
+
+/* Large laptops and desktops */
+@media (min-width: 1440px) and (max-width: 1919px) {
+  /* Styles for large laptops and desktops */
+}
+
+
+
+
