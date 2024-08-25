@@ -6,7 +6,7 @@ Welcome to the QuickPrep repository! This project is an online learning platform
   <button>QuickPrep</button>
 </a>
 
-**Its a suggestion to open this website on "Google Crome" for better visualization.
+**Its a suggestion to open this website on "Google Chrome" for better visualization.
 
 
 ## Project Overview
